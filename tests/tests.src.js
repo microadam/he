@@ -3037,7 +3037,7 @@
 		},
 		{
 			"decoded": "a\u2026b",
-			"encoded": "a&mldr;b"
+			"encoded": "a&hellip;b"
 		},
 		{
 			"decoded": "a\u22A7b",
